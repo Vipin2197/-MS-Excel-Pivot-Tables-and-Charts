@@ -60,3 +60,7 @@ gcsu.edu
 Backer metrics: Early pledge momentum and average donation help differentiate success vs failure.
 
 Data limitations: small sample (~4K), heavy US bias, potential domain-specific skew
+
+ Screenshots / Demos
+
+view : ![dashboard preview]![Screenshot 2025-07-02 113238](https://github.com/user-attachments/assets/313a3e53-1cb0-459a-aebc-ac0c98a047f7)
